@@ -119863,7 +119863,7 @@ rofi = Popen(
         '-i',
         '-multi-select',
         '-p',
-        ' 😀   ',
+        ' ',
         '-kb-custom-1',
         'Alt+c'
     ],
